@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+
+body {
+    background: #F1F2F4;
+    font-family: 'Hind Siliguri', sans-serif
+}
+
+.card {
+    width: 300px;
+    border-radius: 0
+}
+
+.fa-paypal {
+    padding: 15px 20px;
+    border: 1px solid #C1C1C1;
+    border-radius: 50%;
+    font-size: 30px
+}
+
+p.text-muted {
+    font-size: 27px
+}
+
+.fa-arrow-up {
+    color: #C3C3C3;
+    font-size: 20px;
+    margin-top: 12px
+}
